@@ -1,2 +1,4 @@
 import "./styles.css";
-console.log("hello world");
+import { project } from "../projectHandlers/project";
+
+project();
